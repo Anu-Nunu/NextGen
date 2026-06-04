@@ -268,7 +268,7 @@ Potential improvements include:
 
 💼 LinkedIn: linkedin.com/in/anu-oketoki-566467397
 
-🌐 Portfolio: github.com/Anuoluwapo-O
+🌐 Portfolio: https://github.com/Anuoluwapo-O/NextGen
 
 ---
 
