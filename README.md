@@ -236,6 +236,15 @@ This project demonstrates expertise in:
 
 ---
 
+
+
+**PROJECT FILES**
+
+
+[SQL QUERIES](https://github.com/Anu-Nunu/NextGen/blob/main/NextGen_db%20(2).sql)
+
+
+
 ## 🚀 Future Enhancements
 
 Potential improvements include:
@@ -269,18 +278,14 @@ Completed ✅
 
 ---
 
+
+
 ### Support
 
 If you found this project valuable, please consider giving the repository a ⭐ Star and sharing your feedback.
 
 Thank you for visiting this project.
 
-![Dashboard](https://github.com/Anu-Nunu/NextGen/blob/main/Screenshot%202026-05-06%20122853.png)
 
 
-![Dashboard](https://github.com/Anu-Nunu/NextGen/blob/main/Screenshot%202026-05-06%20123149.png)
 
-PROJECT FILES
-
-
-[SQL QUERIES](https://github.com/Anu-Nunu/NextGen/blob/main/NextGen_db%20(2).sql)
